@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "lottie-web": "^5.8.1",
+    "react-lottie": "^1.2.3",
     "solid-js": "^1.2.6"
   }
 }
