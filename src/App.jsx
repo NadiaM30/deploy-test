@@ -15,13 +15,14 @@ function App() {
       autoplay: true,
     });
     lottie.loadAnimation({
-      container: document.querySelector("#lottie-image"),
+      container: document.querySelector("#lottie-image1"),
       animationData: lottieImage1,
       renderer: "svg",
       loop: true,
       autoplay: true,
     });
   });
+
   return (
     <div class={styles.App}>
       <header class={styles.header}>
